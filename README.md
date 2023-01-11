@@ -13,3 +13,7 @@ The Sharpe ratio is a measure of the risk-adjusted return of an investment, and 
 The final step is to graph the results and analyze the outcomes. This includes creating a plot of the efficient frontier and identifying the optimal portfolio, as well as discussing any observations or insights that can be drawn from the analysis.
 
 <strong> Google Sheets implementation of the above model for two assets can be found here: [Click Here](https://docs.google.com/spreadsheets/d/1OOhd8j8lQDRxH6Us0X3QrsFkhPGmuOpaQbiEkY7ZrFg/edit?usp=sharing)
+
+The image below shows the Mean Return(Reward) vs Standard Deviation(Risk) plot with Efficient Frontier:
+
+![Mean vs Standard Deviation plot with Efficient Frontier](./Efficient-Frontier.png)

@@ -16,4 +16,4 @@ The final step is to graph the results and analyze the outcomes. This includes c
 
 The image below shows the Mean Return(Reward) vs Standard Deviation(Risk) plot with Efficient Frontier:
 
-![Mean vs Standard Deviation plot with Efficient Frontier](./Efficient-Frontier.png)
+![Mean vs Standard Deviation plot with Efficient Frontier](./Efficient-frontier.png)
